@@ -2,10 +2,10 @@
   "name": "api-pruebas",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": {
-    "start": "node server.js",
-    "test": "jest",
-    "cypress:open": "cypress open"
+ "scripts": {
+  "start": "node server.js",
+  "test": "jest",
+  "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",
@@ -28,3 +28,4 @@
   "homepage": "https://github.com/saulcm555/Taller_Pruebas_Uni4toA#readme",
   "description": ""
 }
+
